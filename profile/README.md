@@ -4,8 +4,8 @@
 
 <h3>Aptivi... where tech changes</h3>
 
-[Website](https://aptivi.github.io) �
-[Manual](https://aptivi.gitbook.io) �
+[Website](https://aptivi.github.io) •
+[Manual](https://aptivi.gitbook.io) •
 [Blog](https://officialaptivi.wordpress.com)
 
 <div align = left>
